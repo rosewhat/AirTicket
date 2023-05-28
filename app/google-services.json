@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754519550346",
+    "project_id": "airticket-26a82",
+    "storage_bucket": "airticket-26a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754519550346:android:2aeffed6ff4c85ebd04073",
+        "android_client_info": {
+          "package_name": "com.example.airticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqycfZjBXdAemk_D1S4e63T_7JyM_akWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
